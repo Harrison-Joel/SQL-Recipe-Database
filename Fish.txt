@@ -1,0 +1,8 @@
+Anchovies
+Bass
+Catfish
+Cod
+Salmon
+Tilapia
+Trout
+Tuna
